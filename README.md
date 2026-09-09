@@ -9,7 +9,9 @@
   ---
 
   <a href="https://github.com/PixelCattt?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=idea,java,visualstudio,cs,vscode,js"/>
+    <img src="https://skillicons.dev/icons?i=idea,space,visualstudio,space,vscode"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,maven,cs,html,js,css"/>
   </a>
 
   ---
